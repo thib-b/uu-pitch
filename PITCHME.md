@@ -1,6 +1,6 @@
 #HSLIDE
 
-Hello, World!
+# GIT
 * Version control
 * What is git
     - alternatives
