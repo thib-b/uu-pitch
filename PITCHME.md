@@ -1,10 +1,14 @@
 #HSLIDE
 
 # GIT
+
+#HSLIDE
 * Version control
+
+#HSLIDE
 * What is git
-    - alternatives
-* Brief overview
+
+#HSLIDE
 * Use git - this slideshow. etc.
 
 #HSLIDE
