@@ -63,6 +63,9 @@ and the name as (depending on your way):
    works for you. Angels sing, and a light suddenly fills the room.
  - "g*dd*mn idiotic truckload of sh*t": when it breaks
 ```
+#HSLIDE
+## Key concepts
+
 
 #HSLIDE
 * Use git - this slideshow. etc.
