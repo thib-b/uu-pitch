@@ -40,6 +40,12 @@
 
 #HSLIDE
 ## History
+* Created in 2005 by Linus Torvalds after Bitkeeper agreement ended.
+* Criterias for creation
+    - patching time < 3s
+    - Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision
+    - Support a distributed, BitKeeper-like workflow
+    - Include very strong safeguards against corruption, either accidental or malicious
 
 
 
