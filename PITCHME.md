@@ -3,7 +3,11 @@
 # GIT
 
 #HSLIDE
-* Version control
+
+#Disclaimer
+
+*Not a git expert
+*Plenty of better resources available
 
 #HSLIDE
 * What is git
