@@ -49,7 +49,7 @@
 
 #HSLIDE
 ## History - name
-Linus Torvalds:  "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."
+Linus Torvalds:  "I'm an egotistical b*st*rd, and I name all my projects after myself. First 'Linux', now 'git'."
 
 From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d9ab23ca2e25604af290/README) :
 ```
