@@ -15,7 +15,7 @@
 ## What to take home
 
 * Use git (or more appropriate solution)
-* Think like an engineer
+* Look it up yourself!
 
 #HSLIDE
 
