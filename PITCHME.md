@@ -14,16 +14,19 @@
 
 ## What to take home
 
-* Use git
+* Use git (or more appropriate solution)
 * Think like an engineer
 
 #HSLIDE
 
 ## Plan
 
-
-
-
+* What is git?
+    - Decentralised version control
+    - History
+    - Key concepts
+* Git 101
+* Use Cases
 
 
 
