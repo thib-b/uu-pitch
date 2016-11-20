@@ -24,14 +24,14 @@
 * What is git?
     - Distributed version control
     - History
-    - Key concepts
+* Key concepts
 * Git 101
 * Use Cases
 
 
 
 #HSLIDE
-## What is git
+# What is git
 
 #HSLIDE
 ## Distributed Version Control
@@ -66,6 +66,7 @@ From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d
 #HSLIDE
 ## Key concepts
 
+#HSLIDE
 
 #HSLIDE
 * Use git - this slideshow. etc.
