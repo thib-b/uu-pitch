@@ -34,7 +34,7 @@
 ## What is git
 
 #HSLIDE
-# Distributed Version Control
+## Distributed Version Control
 * Version Control System
 * Distributed - every copy of the codebase is a complete repository
 
@@ -47,6 +47,7 @@
     - Support a distributed, BitKeeper-like workflow
     - Include very strong safeguards against corruption, either accidental or malicious
 
+#HSLIDE
 ## History - name
 Linus Torvalds:  "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."
 
