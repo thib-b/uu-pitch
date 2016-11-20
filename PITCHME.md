@@ -22,7 +22,7 @@
 ## Plan
 
 * What is git?
-    - Decentralised version control
+    - Distributed version control
     - History
     - Key concepts
 * Git 101
@@ -30,19 +30,18 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
+#HSLIDE
+# What is git
 
 #HSLIDE
-* What is git
+# Distributed Version Control
+* Version Control System
+* Distributed - every copy of the codebase is a complete repository
+
+#HSLIDE
+# History
+
+
 
 #HSLIDE
 * Use git - this slideshow. etc.
