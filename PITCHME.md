@@ -31,7 +31,7 @@
 
 
 #HSLIDE
-# What is git
+## What is git
 
 #HSLIDE
 # Distributed Version Control
@@ -39,7 +39,7 @@
 * Distributed - every copy of the codebase is a complete repository
 
 #HSLIDE
-# History
+## History
 
 
 
