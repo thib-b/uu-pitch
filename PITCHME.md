@@ -32,6 +32,7 @@
 
 #HSLIDE
 # What is git
+source: [wikipedia](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 #HSLIDE
 ## Distributed Version Control
@@ -65,7 +66,7 @@ From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d
 ```
 #HSLIDE
 ## Key concepts
-From [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+source: [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 #HSLIDE
 
