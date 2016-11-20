@@ -65,10 +65,19 @@ From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d
  - "g*dd*mn idiotic truckload of sh*t": when it breaks
 ```
 #HSLIDE
-## Key concepts
+# Key concepts
 source: [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 #HSLIDE
+## Snapshots, Not Differences
+Most systems store information as file-based changes.
+![Logo](resources/deltas.png)
+
+#HSLIDE
+* Data is a set of snapshots of a miniature file system.
+* Picture of what all files look like at a saved moment - reference of the snapshot is stored
+* Git stores unchanged files as a link to the previous identical file it has stored
+![Logo](resources/snapshots.png)
 
 #HSLIDE
 * Use git - this slideshow. etc.
