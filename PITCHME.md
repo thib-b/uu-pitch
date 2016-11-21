@@ -45,7 +45,9 @@ source: [wikipedia](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 #HSLIDE
 From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d9ab23ca2e25604af290/README) :
-<span style="font-size: 12px, font-family: courrier">
+
+<blockquote style="font-size: 8px, font-family: courrier">
+
  The name "git" was given by Linus Torvalds when he wrote the very
  first version. He described the tool as "the stupid content tracker"
  and the name as (depending on your way):
