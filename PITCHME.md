@@ -120,6 +120,12 @@ Entire history of the project is stored locally, e.g. looking up history can be 
 ![Logo](resources/areas.png)
 
 #HSLIDE
+# Git 101
+Just do it
+* setup your own repo (github, gitlab, bitbucket, etc.)
+* alternatively [try.github.io](https://try.github.io)
+
+#HSLIDE
 * Use git - this slideshow. etc.
 
 #HSLIDE
