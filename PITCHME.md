@@ -54,7 +54,7 @@ From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d
  The name "git" was given by Linus Torvalds when he wrote the very
  first version. He described the tool as "the stupid content tracker"
  and the name as (depending on your way):
- 
+
   - random three-letter combination that is pronounceable, and not
     actually used by any common UNIX command.  The fact that it is a
     mispronunciation of "get" may or may not be relevant.
@@ -90,9 +90,19 @@ Entire history of the project is stored locally, e.g. looking up history can be 
 * Everything in Git is check-summed (SHA-1 hash) before it is stored and is then referred to by that checksum
     - Built at lowest level
     - Impossible to change content of any file without having git knowing about it
-    - Impossible to lose informaiton in transit or get file corruption without git knowing about it 
+    - Impossible to lose informaiton in transit or get file corruption without git knowing about it
 * Git stores everything in its database not as filename but by the **hash value of its contents**
 
+#HSLIDE
+## Git Generally Only Adds Data
+* Once a snapshot is committed it is virtually impossible to lose data.
+
+#HSLIDE
+## The Three States
+Git has three main states
+* Committed
+* Modified
+* Staged
 
 
 #HSLIDE
