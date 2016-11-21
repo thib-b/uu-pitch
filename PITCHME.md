@@ -126,7 +126,21 @@ Just do it
 * alternatively [try.github.io](https://try.github.io)
 
 #HSLIDE
-* Use git - this slideshow. etc.
+# Use Cases
+... or why we should use version control more
+
+#HSLIDE
+### Code management
+* Group projects
+* Individual projects (!!)
+
+#HSLIDE
+### Text Is Great
+* Text = diffs !
+* Formatting is available AND (very) powerful
+    - Markdown
+    - LaTeX
+* This presentation was built using a single Markdown file, stored on github(https://github.com) and served as a slideshow using [GitPitch](https://gitpitch.com/)
 
 #HSLIDE
 
