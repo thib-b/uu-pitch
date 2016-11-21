@@ -4,7 +4,7 @@
 
 #HSLIDE
 
-##Disclaimers
+###Disclaimers
 
 * Not a git expert
 * Plenty of better resources available
@@ -12,14 +12,14 @@
 
 #HSLIDE
 
-## What to take home
+### What to take home
 
 * Use git (or more appropriate solution)
 * Look it up yourself!
 
 #HSLIDE
 
-## Plan
+### Plan
 
 * What is git?
     - Distributed version control
@@ -35,12 +35,12 @@
 source: [wikipedia](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 #HSLIDE
-## Distributed Version Control
+### Distributed Version Control
 * Version Control System
 * Distributed - every copy of the codebase is a complete repository
 
 #HSLIDE
-## History
+### History
 * Created in 2005 by Linus Torvalds after Bitkeeper agreement ended.
 * Criterias for creation
     - patching time < 3s
@@ -69,7 +69,7 @@ From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d
 source: [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 #HSLIDE
-## Snapshots, Not Differences
+### Snapshots, Not Differences
 Most systems store information as file-based changes.
 ![Logo](resources/deltas.png)
 
@@ -80,13 +80,13 @@ Most systems store information as file-based changes.
 ![Logo](resources/snapshots.png)
 
 #HSLIDE
-## Nearly every operation is local
+### Nearly every operation is local
 
 Entire history of the project is stored locally, e.g. looking up history can be done without talking to *a* central repository.
 
 
 #HSLIDE
-## Git has integrity
+### Git has integrity
 * Everything in Git is check-summed (SHA-1 hash) before it is stored and is then referred to by that checksum
     - Built at lowest level
     - Impossible to change content of any file without having git knowing about it
@@ -94,18 +94,18 @@ Entire history of the project is stored locally, e.g. looking up history can be 
 * Git stores everything in its database not as filename but by the **hash value of its contents**
 
 #HSLIDE
-## Git Generally Only Adds Data
+### Git Generally Only Adds Data
 * Once a snapshot is committed it is virtually impossible to lose data.
 
 #HSLIDE
-## The Three States
+### The Three States
 * Committed: Data is safely stored in your local database
 * Modified: File has changed but has not been stored in local database
 * Staged: File has been marked in its current version to go into your next commit snapshot
 
 
 #HSLIDE
-## ... And The Three Areas
+### ... And The Three Areas
 * Git directory
     - Where Git stores the metadata and object database for your project
     - Most important part of Git
