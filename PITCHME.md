@@ -139,10 +139,12 @@ Just do it
 * Formatting is available AND (very) powerful
     - Markdown
     - LaTeX
-* This presentation was built using a single Markdown file, stored on github(https://github.com) and served as a slideshow using [GitPitch](https://gitpitch.com/)
+* This presentation was built using a single Markdown file, stored on [github](https://github.com) and served as a slideshow using [GitPitch](https://gitpitch.com/)
 
 #HSLIDE
 ![Logo](resources/ibm_logo.png)
+
 _Thank you_
+
 Questions?
 
