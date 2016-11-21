@@ -99,11 +99,25 @@ Entire history of the project is stored locally, e.g. looking up history can be 
 
 #HSLIDE
 ## The Three States
-Git has three main states
 * Committed: Data is safely stored in your local database
 * Modified: File has changed but has not been stored in local database
 * Staged: File has been marked in its current version to go into your next commit snapshot
 
+
+#HSLIDE
+## ... And The Three Areas
+* Git directory
+    - Where Git stores the metadata and object database for your project
+    - Most important part of Git
+* Working directory
+    - Single checkout of one version of the project
+    - Pulled out of the compressed database in the Git directory and placed on disk
+* Staging area
+    - A file that stores information about what will go into next commit
+    - Sometimes referred to as the “index”
+
+#HSLIDE
+![Logo](resources/areas.png)
 
 #HSLIDE
 * Use git - this slideshow. etc.
