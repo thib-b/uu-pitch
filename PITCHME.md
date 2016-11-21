@@ -74,10 +74,26 @@ Most systems store information as file-based changes.
 ![Logo](resources/deltas.png)
 
 #HSLIDE
-* Data is a set of snapshots of a miniature file system.
+* Data is a set of snapshots of a **miniature file system**.
 * Picture of what all files look like at a saved moment - reference of the snapshot is stored
 * Git stores unchanged files as a link to the previous identical file it has stored
 ![Logo](resources/snapshots.png)
+
+#HSLIDE
+## Nearly every operation is local
+
+Entire history of the project is stored locally, e.g. looking up history can be done without talking to *a* central repository.
+
+
+#HSLIDE
+## Git has integrity
+* Everything in Git is check-summed (SHA-1 hash) before it is stored and is then referred to by that checksum
+    - Built at lowest level
+    - Impossible to change content of any file without having git knowing about it
+    - Impossible to lose informaiton in transit or get file corruption without git knowing about it 
+* Git stores everything in its database not as filename but by the **hash value of its contents**
+
+
 
 #HSLIDE
 * Use git - this slideshow. etc.
