@@ -100,9 +100,9 @@ Entire history of the project is stored locally, e.g. looking up history can be 
 #HSLIDE
 ## The Three States
 Git has three main states
-* Committed
-* Modified
-* Staged
+* Committed: Data is safely stored in your local database
+* Modified: File has changed but has not been stored in local database
+* Staged: File has been marked in its current version to go into your next commit snapshot
 
 
 #HSLIDE
