@@ -3,22 +3,17 @@
 # GIT
 
 #HSLIDE
-
 ###Disclaimers
-
 * Not a git expert
 * Plenty of better resources available
 * **You will remember very little of this**
 
 #HSLIDE
-
 ### What to take home
-
 * Use git (or more appropriate solution)
 * Look it up yourself!
 
 #HSLIDE
-
 ### Plan
 
 * What is git?
@@ -64,6 +59,7 @@ From the [official readme](https://github.com/git/git/blob/e83c5163316f89bfbde7d
     works for you. Angels sing, and a light suddenly fills the room.
  - "g*dd*mn idiotic truckload of sh*t": when it breaks
 ```
+
 #HSLIDE
 # Key concepts
 source: [git-scm.com](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
@@ -142,6 +138,8 @@ Just do it
     - LaTeX
 * This presentation was built using a single Markdown file, stored on github(https://github.com) and served as a slideshow using [GitPitch](https://gitpitch.com/)
 
+
+
+
 #HSLIDE
 
-The End :)
